@@ -1,0 +1,10 @@
+project: pharos
+target: pharos
+
+duration: 60
+
+testsuite:
+  - file://calc.exe
+
+cmds:
+  - cmd:  ooanalyzer --json=/tmp/output.json @@
