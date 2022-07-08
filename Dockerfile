@@ -1,3 +1,3 @@
 FROM seipharos/pharos as package
 
-ADD ./calc.exe /calc.exe
+ADD ./minesweeper.exe /minesweeper.exe

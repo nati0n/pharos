@@ -4,7 +4,7 @@ target: pharos
 duration: 60
 
 testsuite:
-  - file://calc.exe
+  - file://minesweeper.exe
 
 cmds:
   - cmd:  ooanalyzer --json=/tmp/output.json @@
