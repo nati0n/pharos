@@ -1,7 +1,7 @@
 project: pharos
 target: pharos
 
-duration: 60
+duration: 600
 
 testsuite:
   - file://minesweeper.exe
