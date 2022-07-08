@@ -7,4 +7,4 @@ testsuite:
   - file://helloworld.exe
 
 cmds:
-  - cmd:  ooanalyzer --json=/tmp/output.json @@
+  - cmd:  ooanalyzer --allow-64bit --json=/tmp/output.json @@
